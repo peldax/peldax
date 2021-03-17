@@ -7,9 +7,9 @@
 
 #### Connect with me
 <p align="left">
-<a href="https://twitter.com/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="peldax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="peldax" height="30" width="40" /></a>
-<a href="https://instagram.com/vaclav.pelisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vaclav.pelisek" height="30" width="40" /></a>
+<a href="https://twitter.com/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/twitter.svg" alt="peldax" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/linkedin.svg" alt="peldax" height="30" width="40" /></a>
+<a href="https://instagram.com/vaclav.pelisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/instagram.svg" alt="vaclav.pelisek" height="30" width="40" /></a>
 </p>
 
 ### My most used languages and tools
