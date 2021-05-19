@@ -7,9 +7,9 @@
 
 #### Connect with me
 <p align="left">
-<a href="https://twitter.com/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/twitter.svg" alt="peldax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peldax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/linkedin.svg" alt="peldax" height="30" width="40" /></a>
-<a href="https://instagram.com/vaclav.pelisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/instagram.svg" alt="vaclav.pelisek" height="30" width="40" /></a>
+<a href="https://twitter.com/peldax" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peldax" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/vaclav.pelisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ### My most used languages and tools
@@ -19,8 +19,11 @@
   <a href="https://www.nette.org/" target="_blank"><img src="https://files.nette.org/git/www/nette-logo-black.gif" alt="cplusplus" width="65" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> 
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a> 
+  <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a> 
+  <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a> 
   <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a> 
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> 
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
