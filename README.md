@@ -1,7 +1,7 @@
 # Václav Pelíšek (peldax)
 #### Perfectionist with interest in mathematics and computer sciences.
 
-- 🔭 I’m currently working for [Infinityloop.dev](https://www.infinityloop.dev).
+- 🔭 I’m currently working for [Webthinx](https://www.webthinx.com) and [Brightlogic technologies](https://brightlogic.tech).
 - :wrench: My current opensource project is [GraPHPinator](https://github.com/infinityloop-dev/graphpinator).
 - 📫 You can reach me on **peldax@gmail.com**.
 
